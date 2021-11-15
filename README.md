@@ -1,6 +1,6 @@
 # Arvato DevOps Scenario 
 
-This repository is about Arvato(Datis Arian Qeshm) job opportunity as a DevOps engineer. 
+This repository is about Arvato job opportunity as a DevOps engineer. 
 
 The assignment consists of 2 tasks which are listed here. 
 
