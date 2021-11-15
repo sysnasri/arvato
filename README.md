@@ -1,6 +1,6 @@
-# Arvato DevOps Scenario 
+# Task1 DevOps Scenario 
 
-This repository is about Arvato job opportunity as a DevOps engineer. 
+This repository is about Task1 job opportunity as a DevOps engineer. 
 
 The assignment consists of 2 tasks which are listed here. 
 
